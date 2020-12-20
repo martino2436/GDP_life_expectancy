@@ -1,2 +1,18 @@
 Notes Life Expectancy GDP Portfolio:
 
+Project Goal: 
+Determing whether there is a correlation between the GDP and the life expectancy by looking at the data from 6 countries
+across 15 years.
+
+We are using Pandas, Matplotlib and Seaborn libraries from Python. Even maybe NumPy.
+
+Pandas tasks:
+- tidy dataset
+- convert GDP approprietly 
+
+Visualization to present:
+
+- barplots to show Average GDP per country & Average Life Expectancy
+- scatter plot to show the relation between GDP & Life Expectancy per countries
+- barpolots Life expectancy and GDP overtime for each country on the same graph
+- show the distribution for life expectancy and GDP over time per countries using histogtams and box plots
