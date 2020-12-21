@@ -12,7 +12,15 @@ Pandas tasks:
 
 Visualization to present:
 
-- barplots to show Average GDP per country & Average Life Expectancy
+- barplots to show Average GDP per country & Average Life Expectancy in both Matplotlib and Seaborn
 - scatter plot to show the relation between GDP & Life Expectancy per countries
-- barpolots Life expectancy and GDP overtime for each country on the same graph
+- barplots Life expectancy and GDP overtime for each country on the same graph
 - show the distribution for life expectancy and GDP over time per countries using histogtams and box plots
+
+Some components that you may want to include:
+
+Has life expectancy increased over time in the six nations?
+Has GDP increased over time in the six nations?
+Is there a correlation between GDP and life expectancy of a country?
+What is the average life expectancy in these nations?
+What is the distribution of that life expectancy?
